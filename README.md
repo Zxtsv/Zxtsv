@@ -29,7 +29,7 @@ Full Stack Developer 🚀.3+ years experience as software developer. <img height
 
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bernardopprz&show_icons=true&theme=radical" alt="Bernardo's Github Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zxtsv&show_icons=true&theme=radical" alt="Bernardo's Github Stats">
 </p>
 
 <!--
