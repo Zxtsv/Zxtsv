@@ -1,4 +1,4 @@
-### Hi my name is Zxtsv 👋
+### Hi my name is Bernardo 👋
 ## <img height="40" src="https://media.giphy.com/media/xgdfNaM8kr6Lu/giphy.gif"/> About Me
 <samp>
 Full Stack Developer 🚀.3+ years experience as software developer. <img height="30" src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"/> Computer engineer in process. <img height="30" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif"/> Cyber-Security Enthusiast. Specialised in backend development and build management.
